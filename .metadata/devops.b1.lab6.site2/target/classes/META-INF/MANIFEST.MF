@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: DELL
+Build-Jdk: 17.0.6
+Main-Class: pkg1.MyCalc
+Created-By: Maven Integration for Eclipse
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="D:\4th sem Notes\Build Release Management\Lab-5\src\main\java\devops\b1\lab5\sonar\Myclass.java"/>
+			<item value="D:\4th sem Notes\Build Release Management\Lab-5"/>
+			<item value="C:\Users\DELL\eclipse-workspace\.metadata\devops.b1.lab3\src\module-info.java"/>
+			<item value="C:\Users\DELL\eclipse-workspace\.metadata\lab work2"/>
+			<item value="D:\4th sem Notes\Build Release Management\labwork6"/>
+			<item value="D:\4th sem Notes\Build Release Management\lab-6"/>
+			<item value="D:\4th sem Notes\Build Release Management\lab-4"/>
+			<item value="D:\4th sem Notes\Build Release Management"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item key="catalog" value="internal"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+		</list>
+		<list key="groupId">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+			<item value="upes_b1_lab7"/>
+			<item value="devops_b1"/>
+			<item value="upes.dehradhun"/>
+			<item value="upes_lab"/>
+			<item value="devops.b1.lab6.site"/>
+		</list>
+		<list key="name">
+			<item value="devops.b1.lab6.site"/>
+		</list>
+		<list key="artifactId">
+			<item value="upes_b1_lab7"/>
+			<item value="lab_7"/>
+			<item value="devops.b1.lab5.sonar"/>
+			<item value="devops.b1.lab6.site2"/>
+			<item value="upes_devops"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.wizards.CustomArchetypeDialog">
+	</section>
+</section>
